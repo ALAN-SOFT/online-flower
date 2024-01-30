@@ -1,0 +1,1 @@
+## This is a case of an online flower shop system. In this case, there is only the back-end interface, and the front-end interface is in another project of mine. There are three tables in this system, namely flower type, product table and user table. You can learn how to write SQL and the process of back-end interface development.
